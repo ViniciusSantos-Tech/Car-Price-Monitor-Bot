@@ -1,42 +1,52 @@
-# Car Scrapping + Tkinter V2 — Atualização com Tela de Login
 
-**Feito por Vinicius Santos-Tech**
+# 🤖 PriceBot - Monitor de Preços Automatizado
+## Um sistema robusto de automação web para monitoramento de preços de veículos com interface gráfica moderna e notificações instantâneas.
 
-Este projeto realiza web scraping do preço do Fiat Fastback utilizando Selenium, salva os dados em Excel, envia notificação via WhatsApp e exibe tudo em uma interface gráfica Tkinter.
+## 🎯 Visão Geral
+- PriceBot é uma solução automatizada desenvolvida em Python que monitora preços de veículos em sites de concessionárias, exporta os dados - para análise e envia alertas via WhatsApp. Ideal para compradores, vendedores e entusiastas do mercado automotivo.
 
-## 🔄 Atualização: Tela de Login Antes da Interface Principal
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Web_Automation-orange?style=for-the-badge&logo=selenium&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-purple?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green?style=for-the-badge&logo=pandas&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Notifications-success?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-Esta atualização adicionou uma tela de login feita com CustomTkinter, exibida antes do sistema principal.
+## ✨ Funcionalidades Principais
+- 🔐 Sistema de Autenticação
+- Interface de login moderna com tema escuro
 
-## 📊 O que mudou
+- Validação de credenciais
 
-### **Antes**
-- A interface principal (Tkinter) era aberta imediatamente ao executar o programa
-- Não existia autenticação
+- Transição suave entre telas
 
-### **Agora**
-- O sistema inicia mostrando uma tela de login
-- O usuário deve digitar:
-  - **Usuário:** Vinicius
-  - **Senha:** 12345
+## 🌐 Automação Web Inteligente
+- Navegação automática no site da concessionária
 
-#### **Se o login for válido:**
-- A mensagem de sucesso é exibida
-- A janela de login é fechada automaticamente  
-- A interface principal do projeto é aberta
+- Extração precisa de dados de preços
 
-#### **Se o login for inválido:**
-- A mensagem de erro é mostrada
+- Resiliência a falhas de conexão
 
-> **Nota:** A interface original não sofreu nenhuma alteração visual. Ela apenas foi movida para dentro de uma função chamada após o login ser validado.
+- Gerenciamento automático de drivers
 
-## 🛠 Tecnologias Utilizadas
+## 📊 Gestão de Dados
+- Exportação para Excel com timestamp
 
-- Python
-- CustomTkinter
-- Tkinter
-- Selenium
-- Pandas
-- PyWhatKit
-- ChromeDriverManager
+- Estrutura de dados organizada
+
+- Backup automático de informações
+
+## 📱 Notificações em Tempo Real
+- Alertas via WhatsApp
+
+- Formatação profissional de mensagens
+
+- Envio instantâneo após detecção
+
+## 🖥️ Interface Amigável
+- Design limpo e profissional
+
+- Feedback visual em tempo real
+
+- Indicadores de status claros
+
 
