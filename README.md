@@ -1,9 +1,9 @@
+# 🤖 PriceBot – Automated Price Monitoring
+## A robust web automation system for monitoring vehicle prices, featuring a modern graphical interface and instant notifications.
 
-# 🤖 PriceBot - Monitor de Preços Automatizado
-## Um sistema robusto de automação web para monitoramento de preços de veículos com interface gráfica moderna e notificações instantâneas.
+## 🎯 Overview
+- PriceBot is an automated solution developed in Python that monitors vehicle prices on dealership websites, exports data for analysis, and sends alerts via WhatsApp. Ideal for buyers, sellers, and automotive market enthusiasts.
 
-## 🎯 Visão Geral
-- PriceBot é uma solução automatizada desenvolvida em Python que monitora preços de veículos em sites de concessionárias, exporta os dados - para análise e envia alertas via WhatsApp. Ideal para compradores, vendedores e entusiastas do mercado automotivo.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Web_Automation-orange?style=for-the-badge&logo=selenium&logoColor=white)
@@ -11,42 +11,32 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green?style=for-the-badge&logo=pandas&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Notifications-success?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-## ✨ Funcionalidades Principais
-- 🔐 Sistema de Autenticação
-- Interface de login moderna com tema escuro
+## ✨ Key Features
+- 🔐 Authentication System
+- Modern login interface with dark theme
+- Credential validation
+- Smooth screen transitions
 
-- Validação de credenciais
+## 🌐 Intelligent Web Automation
+- Automatic navigation on dealership websites
+- Accurate price data extraction
+- Resilience to connection failures
+- Automatic driver management
 
-- Transição suave entre telas
+## 📊 Data Management
+- Excel export with timestamp
+- Organized data structure
+- Automatic information backup
 
-## 🌐 Automação Web Inteligente
-- Navegação automática no site da concessionária
+## 📱 Real-Time Notifications
+- WhatsApp alerts
+- Professional message formatting
+- Instant delivery upon detection
 
-- Extração precisa de dados de preços
+## 🖥️ User-Friendly Interface
+- Clean and professional design
+- Real-time visual feedback
+- Clear status indicators
 
-- Resiliência a falhas de conexão
-
-- Gerenciamento automático de drivers
-
-## 📊 Gestão de Dados
-- Exportação para Excel com timestamp
-
-- Estrutura de dados organizada
-
-- Backup automático de informações
-
-## 📱 Notificações em Tempo Real
-- Alertas via WhatsApp
-
-- Formatação profissional de mensagens
-
-- Envio instantâneo após detecção
-
-## 🖥️ Interface Amigável
-- Design limpo e profissional
-
-- Feedback visual em tempo real
-
-- Indicadores de status claros
 
 
